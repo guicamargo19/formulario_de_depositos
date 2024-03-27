@@ -1,5 +1,7 @@
 # Formulário de depósitos
 
+<img src="assets/EBAC_Banking.png">
+
 Projeto desenvolvido no curso de Full Stack Python da EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 
 Projeto simples desenvolvido em HTML5 e CSS3 com JavaScript, sendo o primeiro projeto com comportamento
