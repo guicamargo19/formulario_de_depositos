@@ -1,6 +1,6 @@
 # Formulário de depósitos
 
-<img src="assets/EBAC_Banking.png">
+<img src="assets/banking.png">
 
 Projeto desenvolvido no curso de Full Stack Python da EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 
